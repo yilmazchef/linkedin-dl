@@ -1,8 +1,8 @@
 import os
 
 # EDIT
-USERNAME = 'yilmaz@mail.be'
-PASSWORD = 'AA1a2z3e4rAA++'
+USERNAME = 'username_for_linkedin'
+PASSWORD = 'password_for_linkedin'
 COURSES = [
     'learning-python-2020'
 ]
